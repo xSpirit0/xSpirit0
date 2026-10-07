@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="64" viewBox="0 0 220 64" fill="none"><defs>
+<filter id="b10" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="10"/></filter>
+<filter id="b18" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="18"/></filter>
+<filter id="b50" x="-50%" y="-80%" width="200%" height="260%"><feGaussianBlur stdDeviation="50"/></filter>
+<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#7b6dff" stop-opacity="0.9"/>
+  <stop offset="0.6" stop-color="#5b4fe0" stop-opacity="0.25"/>
+  <stop offset="1" stop-color="#5b4fe0" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#ffffff" stop-opacity="0.07"/>
+  <stop offset="0.55" stop-color="#8f86ff" stop-opacity="0.05"/>
+  <stop offset="1" stop-color="#6c63ff" stop-opacity="0.24"/>
+</linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#ffffff" stop-opacity="0.38"/>
+  <stop offset="0.5" stop-color="#8f86ff" stop-opacity="0.10"/>
+  <stop offset="1" stop-color="#8f86ff" stop-opacity="0.38"/>
+</linearGradient>
+<linearGradient id="hl" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+  <stop offset="0.5" stop-color="#fff" stop-opacity="0.5"/>
+  <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#8f86ff" stop-opacity="0"/>
+  <stop offset="1" stop-color="#8f86ff" stop-opacity="0.8"/>
+</linearGradient>
+<linearGradient id="lnr" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#8f86ff" stop-opacity="0.8"/>
+  <stop offset="1" stop-color="#8f86ff" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip"><rect width="220" height="64" rx="32"/></clipPath></defs><g clip-path="url(#clip)"><rect width="220" height="64" fill="#04050c"/><ellipse cx="110" cy="40" rx="80" ry="20" fill="#5b4fe0" opacity="0.35" filter="url(#b18)"/><rect x="1" y="1" width="218" height="62" rx="31" fill="url(#card)"/><rect x="1.5" y="1.5" width="217" height="61" rx="30" stroke="url(#edge)" stroke-width="1.1"/><rect x="32" y="1.5" width="156" height="1" fill="url(#hl)"/><g transform="translate(71.2 21.0) scale(0.9167)"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#f4f5ff"/></g><path d="M108.34 37.5V25.86H115.91V27.62H110.43V30.76H115.5V32.49H110.43V35.74H115.94V37.5ZM117.94 37.5V28.77H119.84L119.91 30.42Q120.08 29.94 120.36 29.59Q120.75 29.1 121.28 28.86Q121.8 28.62 122.38 28.62Q123.33 28.62 123.91 29.22Q124.38 29.7 124.62 30.52Q124.8 30.03 125.11 29.66Q125.54 29.15 126.14 28.89Q126.73 28.62 127.41 28.62Q128.2 28.62 128.83 28.97Q129.45 29.31 129.82 29.97Q130.19 30.63 130.19 31.61V37.5H128.16V31.92Q128.16 31.11 127.71 30.73Q127.27 30.36 126.64 30.36Q126.16 30.36 125.8 30.57Q125.44 30.78 125.25 31.15Q125.05 31.52 125.05 32.02V37.5H123.07V31.83Q123.07 31.16 122.66 30.76Q122.24 30.36 121.59 30.36Q121.15 30.36 120.78 30.56Q120.41 30.77 120.19 31.16Q119.97 31.56 119.97 32.15V37.5ZM134.78 37.68Q133.95 37.68 133.29 37.38Q132.62 37.08 132.24 36.49Q131.86 35.91 131.86 35.05Q131.86 34.3 132.14 33.82Q132.41 33.34 132.89 33.05Q133.36 32.76 133.95 32.61Q134.55 32.46 135.19 32.4Q135.95 32.31 136.42 32.25Q136.9 32.19 137.12 32.05Q137.34 31.91 137.34 31.61V31.57Q137.34 31.14 137.17 30.84Q137 30.54 136.66 30.38Q136.32 30.22 135.82 30.22Q135.31 30.22 134.94 30.38Q134.57 30.53 134.34 30.78Q134.1 31.03 133.99 31.32L132.11 30.94Q132.37 30.16 132.91 29.66Q133.45 29.16 134.19 28.91Q134.94 28.66 135.81 28.66Q136.43 28.66 137.06 28.8Q137.69 28.95 138.21 29.29Q138.73 29.63 139.05 30.21Q139.38 30.79 139.38 31.66V37.5H137.43V36.3H137.35Q137.16 36.66 136.82 36.98Q136.48 37.3 135.97 37.49Q135.47 37.68 134.78 37.68ZM135.3 36.17Q135.94 36.17 136.39 35.92Q136.85 35.67 137.11 35.26Q137.36 34.85 137.36 34.37V33.34Q137.26 33.41 137.02 33.48Q136.78 33.55 136.49 33.61Q136.2 33.66 135.91 33.7Q135.62 33.74 135.43 33.77Q134.98 33.83 134.61 33.97Q134.24 34.11 134.04 34.36Q133.83 34.62 133.83 35.02Q133.83 35.4 134.02 35.65Q134.21 35.91 134.54 36.04Q134.88 36.17 135.3 36.17ZM141.53 37.5V28.77H143.56V37.5ZM142.55 27.53Q142.06 27.53 141.71 27.2Q141.37 26.88 141.37 26.42Q141.37 25.95 141.71 25.63Q142.06 25.3 142.55 25.3Q143.04 25.3 143.39 25.63Q143.73 25.95 143.73 26.41Q143.73 26.88 143.39 27.2Q143.04 27.53 142.55 27.53ZM147.75 25.86V37.5H145.72V25.86Z" fill="#f4f5ff" opacity="1"/></g></svg>
