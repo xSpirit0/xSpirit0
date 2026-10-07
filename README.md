@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="Hi, I'm Ali. Full-Stack & Mobile Developer" width="100%" />
+<img src="header_v2.svg" alt="Hi, I'm Ali. Full-Stack & Mobile Developer" width="100%" />
 
 <br/>
 
@@ -41,6 +41,6 @@
 
 <br/><br/>
 
-<img src="footer.svg" alt="Thanks for stopping by" width="100%" />
+<img src="footer_v2.svg" alt="Thanks for stopping by" width="100%" />
 
 </div>
