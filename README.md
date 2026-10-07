@@ -27,11 +27,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xSpirit0&theme=dark&hide_border=true&background=0a0c1f&ring=6c63ff&fire=8f86ff&currStreakNum=f4f5ff&sideNums=c3c7ee&currStreakLabel=a9a3ff&sideLabels=9aa1cc&dates=9aa1cc" />
 
-<br/><br/>
 
 <img src="connect_heading.svg" alt="Let's Connect" width="100%" />
-
-<br/>
 
 <a href="https://github.com/xSpirit0"><img src="btn_github.svg" alt="GitHub" height="56" /></a>
 &nbsp;
