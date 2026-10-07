@@ -31,7 +31,8 @@ I build things for the web and for mobile, and I'm always learning something new
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,flutter,dart,kotlin,firebase,mongodb,postgres,git,figma&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,flutter,unity,swift,py,dart,firebase,postgres,git&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,&theme=dark&perline=8" />
 </a>
 
 </div>
