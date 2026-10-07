@@ -2,10 +2,7 @@
 
 <img src="header.svg" alt="Hi, I'm Ali. Full-Stack & Mobile Developer" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=xSpirit0&label=Profile+views&color=6c63ff&labelColor=0a0c1f&style=flat-square" alt="Profile views" />
-<a href="https://github.com/xSpirit0?tab=followers"><img src="https://img.shields.io/github/followers/xSpirit0?style=flat-square&color=6c63ff&labelColor=0a0c1f" alt="Followers" /></a>
-
-<br/><br/>
+<br/>
 
 <img src="about.svg" alt="About me. Ask me about web, full-stack and mobile. Reach me at sayed3lialawi@gmail.com" width="100%" />
 
