@@ -36,7 +36,6 @@
 &nbsp;
 <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="btn_discord.svg" alt="Discord" height="56" /></a>
 
-<br/><br/>
 
 <img src="footer_v2.svg" alt="Thanks for stopping by" width="100%" />
 
