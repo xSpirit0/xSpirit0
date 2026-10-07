@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Ali | Full-Stack & Mobile Dev" width="100%" />
+<img src="header.svg" alt="Ali | Full-Stack & Mobile Dev" width="100%" />
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 I build things for the web and for mobile, and I'm always learning something new along the way.
 
 - 💬 Ask me about: *web, full-stack, mobile*
-- 📫 Reach me: *you@example.com*
+- 📫 Reach me: *sayed3lialawi@gmail.com*
 
 <br/>
 
@@ -32,8 +32,8 @@ I build things for the web and for mobile, and I'm always learning something new
 
 | | Focus | Status |
 | :-- | :-- | :-- |
-| 🔭 | **Automation Sales** | Building |
-| 🌱 | **CRM** | Learning |
+| 🔭 | **Automation Sales CRM** | Building |
+| 🌱 | **CRM & ERP** | Learning |
 
 <br/>
 
@@ -67,11 +67,11 @@ I build things for the web and for mobile, and I'm always learning something new
 <div align="center">
 
 <a href="https://github.com/xSpirit0"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" /></a>
+<a href="mailto:sayed3lialawi@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" /></a>
 <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=58a6ff" /></a>
 
 <br/><br/>
 
-<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%" />
+<img src="footer.svg" alt="Thanks for stopping by" width="100%" />
 
 </div>
